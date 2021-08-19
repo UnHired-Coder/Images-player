@@ -1,4 +1,4 @@
-# <div align="center"><img src="pdf_converter/android/app/src/main/res/drawable-hdpi/logo.png" alt="icon" width=30> Images Player</div>
+# <div align="center"><img src="android/app/src/main/res/drawable-hdpi/logo.png" alt="icon" width=30> Images Player</div>
 
 
 <div align="center">Open-source Image Gallery App Built on top of Flutter Framework.
@@ -7,7 +7,7 @@
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 </div>
 
-<a href='https://play.google.com/store/apps/details?id=com.hack.imagesplayer'><img alt='Flare Image' src='pdf_converter/screenShots/Web 1920 – 1.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.hack.imagesplayer'><img alt='Flare Image' src='screenShots/Web 1920 – 1.png'/></a>
 
 **Privacy Policy**
 
