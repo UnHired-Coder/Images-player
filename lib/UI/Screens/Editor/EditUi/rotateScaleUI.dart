@@ -3,7 +3,6 @@ import 'dart:ui';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:pdfconverter/UI/animated/EditorWidgets/customSeekBar.dart';
 import 'package:pdfconverter/assets/colors/ThemeColors.dart';
 import 'package:pdfconverter/declarations/enums.dart';
 import 'package:pdfconverter/util/Editor/Params/rotateParams.dart';

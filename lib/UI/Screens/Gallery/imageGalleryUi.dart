@@ -10,11 +10,10 @@ import 'package:pdfconverter/UI/Screens/SelectedImages/selectedImagesModel.dart'
 import 'package:pdfconverter/UI/animated/UIwidgets/AnimatedProgress.dart';
 import 'package:pdfconverter/UI/animated/UIwidgets/animatedActiveButton.dart';
 import 'package:pdfconverter/UI/animated/UIwidgets/animatedHeaderButton.dart';
-import 'package:pdfconverter/util/PrefsManager.dart';
-import 'package:pdfconverter/util/ThemesManager.dart';
-import '../../animated/UIwidgets/customAnimetedList.dart';
-import 'file:///F:/PDF_CONVERTER/pdf_converter/lib/UI/animated/UIwidgets/animatedSelectWidget.dart';
+import 'package:pdfconverter/UI/animated/UIwidgets/animatedSelectWidget.dart';
+import 'package:pdfconverter/UI/animated/UIwidgets/customAnimetedList.dart';
 import 'package:pdfconverter/assets/colors/ThemeColors.dart';
+import 'package:pdfconverter/util/PrefsManager.dart';
 import 'package:provider/provider.dart';
 
 import 'albumViewModel.dart';
